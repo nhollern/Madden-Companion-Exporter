@@ -6,7 +6,7 @@ This app will export data from the Companion App to a firebase database.
 
 Click Fork. Then copy your url path.
 ```
-git clone [your git url]
+git clone Madden-Companion-Exporter/README.md
 cd Madden-Companion-Exporter
 npm install
 ```
